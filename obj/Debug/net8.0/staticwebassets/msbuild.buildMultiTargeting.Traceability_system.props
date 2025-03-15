@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Traceability_system.props" />
+</Project>
