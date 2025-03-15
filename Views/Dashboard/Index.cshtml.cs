@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace Traceability_system.Pages
+namespace Traceability_system.Views.Dashboard
 {
     public class IndexModel : PageModel
     {

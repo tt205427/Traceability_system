@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "E:\\XM\\Traceability_system\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{348A4A06-B8D9-4F24-964A-04047F53EDF4}|Traceability_system.csproj|e:\\xm\\traceability_system\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{348A4A06-B8D9-4F24-964A-04047F53EDF4}|Traceability_system.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{348A4A06-B8D9-4F24-964A-04047F53EDF4}|Traceability_system.csproj|e:\\xm\\traceability_system\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{348A4A06-B8D9-4F24-964A-04047F53EDF4}|Traceability_system.csproj|solutionrelative:views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348A4A06-B8D9-4F24-964A-04047F53EDF4}|Traceability_system.csproj|e:\\xm\\traceability_system\\views\\dashboard\\indexmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348A4A06-B8D9-4F24-964A-04047F53EDF4}|Traceability_system.csproj|solutionrelative:views\\dashboard\\indexmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348A4A06-B8D9-4F24-964A-04047F53EDF4}|Traceability_system.csproj|e:\\xm\\traceability_system\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{348A4A06-B8D9-4F24-964A-04047F53EDF4}|Traceability_system.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348A4A06-B8D9-4F24-964A-04047F53EDF4}|Traceability_system.csproj|e:\\xm\\traceability_system\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348A4A06-B8D9-4F24-964A-04047F53EDF4}|Traceability_system.csproj|solutionrelative:controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348A4A06-B8D9-4F24-964A-04047F53EDF4}|Traceability_system.csproj|e:\\xm\\traceability_system\\traceability_system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{348A4A06-B8D9-4F24-964A-04047F53EDF4}|Traceability_system.csproj|solutionrelative:traceability_system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{348A4A06-B8D9-4F24-964A-04047F53EDF4}|Traceability_system.csproj|e:\\xm\\traceability_system\\views\\dashboard\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{348A4A06-B8D9-4F24-964A-04047F53EDF4}|Traceability_system.csproj|solutionrelative:views\\dashboard\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{348A4A06-B8D9-4F24-964A-04047F53EDF4}|Traceability_system.csproj|e:\\xm\\traceability_system\\views\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{348A4A06-B8D9-4F24-964A-04047F53EDF4}|Traceability_system.csproj|solutionrelative:views\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{348A4A06-B8D9-4F24-964A-04047F53EDF4}|Traceability_system.csproj|e:\\xm\\traceability_system\\views\\account\\loginmodel.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348A4A06-B8D9-4F24-964A-04047F53EDF4}|Traceability_system.csproj|solutionrelative:views\\account\\loginmodel.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{348A4A06-B8D9-4F24-964A-04047F53EDF4}|Traceability_system.csproj|e:\\xm\\traceability_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{348A4A06-B8D9-4F24-964A-04047F53EDF4}|Traceability_system.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{348A4A06-B8D9-4F24-964A-04047F53EDF4}|Traceability_system.csproj|e:\\xm\\traceability_system\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{348A4A06-B8D9-4F24-964A-04047F53EDF4}|Traceability_system.csproj|solutionrelative:controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{348A4A06-B8D9-4F24-964A-04047F53EDF4}|Traceability_system.csproj|e:\\xm\\traceability_system\\views\\account\\loginmodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{348A4A06-B8D9-4F24-964A-04047F53EDF4}|Traceability_system.csproj|solutionrelative:views\\account\\loginmodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{348A4A06-B8D9-4F24-964A-04047F53EDF4}|Traceability_system.csproj|e:\\xm\\traceability_system\\data\\yourdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +58,46 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IndexModel.cs",
+              "DocumentMoniker": "E:\\XM\\Traceability_system\\Views\\Dashboard\\IndexModel.cs",
+              "RelativeDocumentMoniker": "Views\\Dashboard\\IndexModel.cs",
+              "ToolTip": "E:\\XM\\Traceability_system\\Views\\Dashboard\\IndexModel.cs",
+              "RelativeToolTip": "Views\\Dashboard\\IndexModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:32:14.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\XM\\Traceability_system\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\XM\\Traceability_system\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T09:20:37.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Traceability_system",
+              "DocumentMoniker": "E:\\XM\\Traceability_system\\Traceability_system.csproj",
+              "RelativeDocumentMoniker": "Traceability_system.csproj",
+              "ToolTip": "E:\\XM\\Traceability_system\\Traceability_system.csproj",
+              "RelativeToolTip": "Traceability_system.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-15T09:19:47.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "E:\\XM\\Traceability_system\\Views\\Dashboard\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Views\\Dashboard\\Index.cshtml.cs",
@@ -59,59 +110,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\XM\\Traceability_system\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Dashboard\\Index.cshtml",
               "ToolTip": "E:\\XM\\Traceability_system\\Views\\Dashboard\\Index.cshtml",
               "RelativeToolTip": "Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-15T08:08:16.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "E:\\XM\\Traceability_system\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "Controllers\\DashboardController.cs",
               "ToolTip": "E:\\XM\\Traceability_system\\Controllers\\DashboardController.cs",
               "RelativeToolTip": "Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-15T08:07:20.301Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "E:\\XM\\Traceability_system\\Views\\Account\\Login.cshtml.cs",
-              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml.cs",
-              "ToolTip": "E:\\XM\\Traceability_system\\Views\\Account\\Login.cshtml.cs",
-              "RelativeToolTip": "Views\\Account\\Login.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "LoginModel.cshtml.cs",
+              "DocumentMoniker": "E:\\XM\\Traceability_system\\Views\\Account\\LoginModel.cshtml.cs",
+              "RelativeDocumentMoniker": "Views\\Account\\LoginModel.cshtml.cs",
+              "ToolTip": "E:\\XM\\Traceability_system\\Views\\Account\\LoginModel.cshtml.cs",
+              "RelativeToolTip": "Views\\Account\\LoginModel.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-15T08:06:36.238Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "E:\\XM\\Traceability_system\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
-              "ToolTip": "E:\\XM\\Traceability_system\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "LoginModel.cshtml",
+              "DocumentMoniker": "E:\\XM\\Traceability_system\\Views\\Account\\LoginModel.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\LoginModel.cshtml",
+              "ToolTip": "E:\\XM\\Traceability_system\\Views\\Account\\LoginModel.cshtml",
+              "RelativeToolTip": "Views\\Account\\LoginModel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-15T08:05:17.251Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "YourDbContext.cs",
               "DocumentMoniker": "E:\\XM\\Traceability_system\\Data\\YourDbContext.cs",
               "RelativeDocumentMoniker": "Data\\YourDbContext.cs",
@@ -124,20 +175,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\XM\\Traceability_system\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\XM\\Traceability_system\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-15T08:00:26.964Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\XM\\Traceability_system\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
