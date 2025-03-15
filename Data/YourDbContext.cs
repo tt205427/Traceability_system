@@ -9,7 +9,7 @@ namespace Traceability_system.Data
         {
         }
 
-        // 在这里定义你的 DbSet 属性
+        // 定义 DbSet 属性
         // 例如：public DbSet<YourEntity> YourEntities { get; set; }
     }
 }

@@ -32,3 +32,6 @@ E:\XM\Traceability_system\obj\Debug\net8.0\refint\Traceability_system.dll
 E:\XM\Traceability_system\obj\Debug\net8.0\Traceability_system.pdb
 E:\XM\Traceability_system\obj\Debug\net8.0\Traceability_system.genruntimeconfig.cache
 E:\XM\Traceability_system\obj\Debug\net8.0\ref\Traceability_system.dll
+E:\XM\Traceability_system\obj\Debug\net8.0\Traceability_system.csproj.AssemblyReference.cache
+E:\XM\Traceability_system\obj\Debug\net8.0\Traceability_system.MvcApplicationPartsAssemblyInfo.cs
+E:\XM\Traceability_system\obj\Debug\net8.0\Traceability_system.sourcelink.json

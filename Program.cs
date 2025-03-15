@@ -1,11 +1,12 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.ActiveDirectory;
+using Traceability_system.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // 添加数据库上下文
-builder.Services.AddDbContext<YourDbContext>(options =>
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 // 添加控制器和视图服务
@@ -15,7 +16,7 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddAuthentication(ActiveDirectoryDefaults.AuthenticationScheme)
     .AddActiveDirectory(options =>
     {
-        options.Domain = "yourdomain.com"; // 替换为你的 AD 域名称
+        options.Domain = "PUW.com"; // 替换为你的实际 AD 域名称
         options.CallbackPath = "/signin-ad";
     });
 
@@ -25,7 +26,6 @@ var app = builder.Build();
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
 
